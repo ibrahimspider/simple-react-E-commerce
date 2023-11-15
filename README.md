@@ -1,5 +1,5 @@
 # Simple React E-commerce tailwindcss
 
-This Demo Link [Create React App](https://github.com/facebook/create-react-app).
+This Demo  [Link]([https://github.com/facebook/create-react-app](https://simple-react-e-commerce.netlify.app/)https://simple-react-e-commerce.netlify.app/).
 
 
